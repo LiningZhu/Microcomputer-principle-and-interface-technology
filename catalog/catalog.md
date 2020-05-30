@@ -17,6 +17,10 @@
 
 ## 第五章
 
+- 存储器概述
+  - [什么是储存器](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/RAM.md)
+  - [储存器种类](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/RAMITOR.md)
+
 ## 第六章
 
 - [输入输出接口概述](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%8E%A5%E5%8F%A3%E6%A6%82%E8%BF%B0.md)
