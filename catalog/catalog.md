@@ -11,7 +11,7 @@
 - [Unicode](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/Unicode.md)
 - [BCD码](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/BCD-code.md)
 
-## 第二章
+## [第二章]()
 
 ## 第三章
 
@@ -30,5 +30,7 @@
 ## 第七章
 
 ## 第八章
+
+- [通用可编程外围设备接口8255A](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch8/ch8.md)
 
 ## 第九章
