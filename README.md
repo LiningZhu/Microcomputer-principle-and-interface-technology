@@ -10,7 +10,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo/img/27f32f48300954b3.jpg)
 
-快快进入[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)吧KKSK
+快快进入[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)吧
 
 ## 感谢以下超靠谱的参与人员
 
