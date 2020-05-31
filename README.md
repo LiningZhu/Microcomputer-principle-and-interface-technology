@@ -19,9 +19,6 @@
 - [LIbo zhang](https://github.com/shuaiqifan)
 - [txsfyx](https://github.com/txsfyx)
 
-<<<<<<< HEAD
 ## 说明
 
 本书部分内容引用来自中国大学MOOC[侯彦利](https://www.icourse163.org/u/mooc1496649570242)和[赵永华](https://www.icourse163.org/u/mooc1508212271853)教授的[微机原理与接口技术](https://www.icourse163.org/course/JLU-1002056024)
-
->>>>>>> ff1773c1ad73a709129fc43ef469b3ce5d74c48a
