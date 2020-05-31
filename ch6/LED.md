@@ -10,7 +10,7 @@
 
 
 
-上一章：[]()
+上一章：[数据传送控制方式]([https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data%20Transmission.md](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data Transmission.md))
 
 下一章：[]()
 
