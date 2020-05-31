@@ -1,4 +1,4 @@
-![img](https://images2015.cnblogs.com/blog/1124920/201707/1124920-20170711182222322-1218599921.png)
+![img](http://m.qpic.cn/psc?/V13PUOHK2RFsMP/U3..NSiujzLMR7a*2QgXbSWMwZi5Bnnpt.oU2usg7fdaOcuPghJ8VLk2qsZS3lP*q3UcKViqeJsuCaOMnH18iA!!/b&bo=FAKAAQAAAAADB7U!&rf=viewer_4)
 
 - 存储器按其存储介质特性主要分为“易失性存储器”和“非易失性存储器”两大类。
 
@@ -18,24 +18,29 @@ DRAM
 行检查，若电量大于满电量的 1/2，则认为其代表 1，并把电容充满电； 若电量小于 1/2，
 则认为其代表 0，并把电容放电，藉此来保证数据的正确性。
 
-![img](https://images2015.cnblogs.com/blog/1124920/201707/1124920-20170711183647947-197423125.png)
+![img](http://m.qpic.cn/psc?/V13PUOHK2RFsMP/4pNOqgOvBLvj4yTC9qc55frNeIYO7ZBja8GAqkAprJ1dgBEkSyecUz.c3dGmU**56SVMkTJ.5koodGKnMnin7xIhgAsybnvYQhY6C6X*yG8!/b&bo=FwH*AAAAAAADF9s!&rf=viewer_4)
 
- ![img](https://images2015.cnblogs.com/blog/1124920/201707/1124920-20170712202022290-917008501.png)
+ ![img](http://m.qpic.cn/psc?/V13PUOHK2RFsMP/U3..NSiujzLMR7a*2QgXbYyC.zt57.MiwgNGuvsJcg1TYY6rnAAEq3xyaQ*Ihmo5Bp9qxxDdAW9XfM.i6vQZDQ!!/b&bo=NAK4AQAAAAADB60!&rf=viewer_4)
 
-![img](https://images2015.cnblogs.com/blog/1124920/201707/1124920-20170712202318556-1283765028.png)
 
-![img](https://images2015.cnblogs.com/blog/1124920/201707/1124920-20170712202847993-721021480.png)
 
-![img](https://images2015.cnblogs.com/blog/1124920/201707/1124920-20170712203047962-597613926.png)
+
+
+![img](http://m.qpic.cn/psc?/V13PUOHK2RFsMP/4pNOqgOvBLvj4yTC9qc55QuXiPSEzb6c9ix1lfoZUtSONNyebEKuExsuG2XZIiu52YM7JY*cLcUY6DjcuW0.xx5nCcJhtWWAObCACIKXDwM!/b&bo=nwL4AQAAAAADJ2Y!&rf=viewer_4)
+
+![img](http://m.qpic.cn/psc?/V13PUOHK2RFsMP/4pNOqgOvBLvj4yTC9qc55Vk3LTa2AtvGttvMXTInYa2OEtu*U46hldrw2o.vO43cKozslfmvD2R8vVIcI9I49NzSC1lnl4xIDWlaCXHLvnc!/b&bo=nAIfAgAAAAADJ4E!&rf=viewer_4)
+
+![img](http://m.qpic.cn/psc?/V13PUOHK2RFsMP/4pNOqgOvBLvj4yTC9qc55StcKS8V3zWbT2muWuSQQVKHC6jzej9vVtsUcskn.zOj9ZsHhV288ECAQqSiqe4KpaZsShva*yYzJF5kuHqocEg!/b&bo=qgK*AQAAAAADJxQ!&rf=viewer_4)
 
 ROM 是“Read Only Memory”的缩写，意为只能读的存储器。由于技术的发展，后来设计出了可以方便写入数据的 ROM，而这个“Read Only Memory”的名称被沿用下来了，现在一般用于指代非易失性半导体存储器，包括后面介绍的 FLASH 存储器，有些人也把它归到 ROM类里边。
 
-![img](https://images2015.cnblogs.com/blog/1124920/201707/1124920-20170712204054790-1760809229.png)
+![img](http://m.qpic.cn/psc?/V13PUOHK2RFsMP/4pNOqgOvBLvj4yTC9qc55TrusbhmO7muVhVS.UhtjHJyztBz6agkVwKu5yrYBo2lkXvsoDt7tBDa6hQ1mZabEhdJKN3xS1B43J4Oh4*0Jr4!/b&bo=tgK8AAAAAAADFzo!&rf=viewer_4)
 
 FLASH 存储器又称为闪存，它也是可重复擦写的储器，部分书籍会把 FLASH 存储器称为 FLASH ROM，但它的容量一般比 EEPROM 大得多，且在擦除时，一般以多个字节为单位。如有的 FLASH 存储器以 4096 个字节为扇区，最小的擦除单位为一个扇区。
 
 根据存储单元电路的不同，FLASH 存储器又分为 NOR FLASH 和 NAND FLASH。
 
-![img](https://images2015.cnblogs.com/blog/1124920/201707/1124920-20170712204400962-1131876867.png)
+![img](http://m.qpic.cn/psc?/V13PUOHK2RFsMP/4pNOqgOvBLvj4yTC9qc55UpzYiy7OZsAMoyEz6i.ucaTRvEE.*MyxQUXhIbNgdbW.s.xqIGkF40N4KY0vQ8feHOSXpCysxE6KE15s0l7q3g!/b&bo=0QIRAQAAAAADF*E!&rf=viewer_4)
 
 NOR与 NAND 的共性是在数据写入前都需要有擦除操作，而擦除操作一般是以“扇区/块”为单位的。而 NOR与 NAND特性的差别，主要是由于其内部“地址/数据线”是否分开导致的。
+
