@@ -28,6 +28,7 @@
 - [储存器的性能指标](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/function.md)
 - [静态存储器](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/Static%20Random-Access%20Memory.md)
   - [静态随机存储器芯片应用](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/Static%20Random-Access%20Memory-action.md)
+- [动态随机存储器件](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/dynamic%random%access%memory;.md)
 
 ## 第六章
 
