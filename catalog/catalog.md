@@ -13,9 +13,9 @@
 
 ## 第二章
 
-[8088 与 8086微处理器的功能结构](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/1.md)
+- [8088 与 8086微处理器的功能结构](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/1.md)
 
-[8080CPU的引脚功能](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/2.md)
+- [8080CPU的引脚功能](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/2.md)
 
 ## 第三章
 
