@@ -44,3 +44,8 @@
 - [通用可编程外围设备接口8255A](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch8/ch8.md)
 
 ## 第九章
+
+## 作业
+
+- [作业](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/zuoye/zuoye1.md)
+
