@@ -18,6 +18,7 @@
 - [lijiu99](https://github.com/lijiu99)
 - [LIbo zhang](https://github.com/shuaiqifan)
 - [txsfyx](https://github.com/txsfyx)
+- [1jesus](https://github.com/1jesus)
 
 ## 说明
 
