@@ -20,7 +20,9 @@
 - 存储器概述
   - [什么是储存器](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/RAM.md)
   - [储存器种类](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/RAMITOR.md)
-- 静态随机存储器
+- [储存器的性能指标](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/function.md)
+- [静态存储器](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/Static%20Random-Access%20Memory.md)
+  - [静态随机存储器芯片应用](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/Static%20Random-Access%20Memory-action.md)
 
 ## 第六章
 
