@@ -47,5 +47,5 @@
 
 ## 作业
 
-- [作业](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/zuoye/zuoye1.md)
+- [作业](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/exercise/zuoye1.md)
 
