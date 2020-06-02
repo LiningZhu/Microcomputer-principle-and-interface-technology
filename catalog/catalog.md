@@ -13,6 +13,11 @@
 
 ## 第二章
 
+- [8088 与 8086微处理器的功能结构](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/1.md)
+
+- [8080CPU的引脚功能](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/2.md)
+- [8088的CPU时序](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/3.md)
+
 ## 第三章
 
 ## 第五章
@@ -23,6 +28,9 @@
 - [储存器的性能指标](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/function.md)
 - [静态存储器](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/Static%20Random-Access%20Memory.md)
   - [静态随机存储器芯片应用](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/Static%20Random-Access%20Memory-action.md)
+- [动态随机存储器件](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/dynamic%random%access%memory.md)
+- [只读储存器件(ROM)](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/ROM.md)
+- [高速缓冲存储器（cache）](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/cache.md)
 
 ## 第六章
 
@@ -39,3 +47,8 @@
 - [通用可编程外围设备接口8255A](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch8/ch8.md)
 
 ## 第九章
+
+## 作业
+
+- [作业](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/exercise/zuoye1.md)
+
