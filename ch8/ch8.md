@@ -117,7 +117,7 @@
 
 ![初始化](http://m.qpic.cn/psc?/V13qV41h2syAL4/zfrllz9Q9AzvUwq**DIV0xNeGxPKFxii9U*ZMkRjI7EfX2bi*fuTgqeNT.iISYHjmBJentg7zsRfz7QnkEWH6g!!/mnull&bo=kwGSAAAAAAADByI!&rf=photolist&t=5)
 
-## 上一章：
+## 上一章：[8259A的应用](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch7/8295A%20Claim.md)
 
 ## 下一章：
 

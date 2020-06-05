@@ -10,9 +10,9 @@
 
 
 
-上一章：[数据传送控制方式]([https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data%20Transmission.md](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data Transmission.md))
+上一章：[数据传送控制方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data%Transmission.md)
 
-下一章：[]()
+下一章：[点阵和键盘接口](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Lattice%20and%20Keyboard%20interface.md)
 
 目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
 

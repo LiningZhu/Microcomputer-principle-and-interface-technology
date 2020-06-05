@@ -40,8 +40,8 @@
 
 
 
-上一章：[]()
+上一章：[什么是中断](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch7/what%20is%20Interrupt.md)
 
-下一章：[]()
+下一章：[8259A的应用](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch7/8295A%20Claim.md)
 
 目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)

@@ -20,9 +20,9 @@
 
 ![](http://m.qpic.cn/psc?/V14YMjxf2CzsRr/jkqgNxaPJb7RsklupiKoXWcb6VZ4wRDrk3vyZg*Q0Vk3WSjwwCY1EiUYpIsLAt0Kufe*0ms8UZa3OaYzDeMERmGR5hk4OpOw2truvbxknmA!/b&bo=iwE7AQAAAAADF4I!&rf=viewer_4&t=5)
 
-上一章：[]()
+上一章：[中断向量和中断向量表](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch7/Interrupt%20Vector.md)
 
-下一章：[]()
+下一章：[通用可编程外围设备接口8255A](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch8/ch8.md)
 
 目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
 

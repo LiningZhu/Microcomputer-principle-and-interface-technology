@@ -40,7 +40,7 @@
 
 ![](http://m.qpic.cn/psc?/V14YMjxf2CzsRr/NrBG0KpF3EQEf3NYGEmEN0WtVI5zXNi1OjEDBRDOfY.JgUu3GpZXJSH.zlb.DmgySxSbMY38asQYwWsM6sIVKg!!/b&bo=cgLKAAAAAAADB5g!&rf=viewer_4&t=5)
 
-上一章：[I/O 端口编址方式]([https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/IO%20interface.md](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/IO interface.md))
+上一章：[I/O 端口编址方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/IO%20interface.md)
 
 下一章：[LED数码管显示数字](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/LED.md)
 

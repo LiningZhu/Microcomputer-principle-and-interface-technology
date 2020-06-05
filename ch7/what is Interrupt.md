@@ -42,9 +42,9 @@
 
 
 
-上一章：[]()
+上一章：[点阵和键盘接口](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Lattice%and%Keyboard%interface.md)
 
-下一章：[]()
+下一章：[中断向量和中断向量表](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch7/Interrupt%20Vector.md)
 
 目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
 
