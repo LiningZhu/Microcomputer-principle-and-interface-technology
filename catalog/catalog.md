@@ -36,11 +36,15 @@
 
 - [输入输出接口概述](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%8E%A5%E5%8F%A3%E6%A6%82%E8%BF%B0.md)
 - [端口编址方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/%E7%AB%AF%E5%8F%A3%E7%BC%96%E5%9D%80%E6%96%B9%E5%BC%8F.md)
-- [数据传送控制方式]([https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data%20Transmission.md](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data Transmission.md))
+- [数据传送控制方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data%20Transmission.md)
 - [LED数码管显示数字](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/LED.md)
 - 点阵和键盘接口[]()
 
 ## 第七章
+
+- 什么是中断[]()
+- 中断向量和中断向量表[]()
+- 8259A的应用[]()
 
 ## 第八章
 
