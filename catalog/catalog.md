@@ -17,6 +17,8 @@
 - [8080CPU的引脚功能](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/2.md)
 - [8088的CPU时序](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/3.md)
 - [8088CPU的系统总线形成](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/4.md)
+- [8088CPU的存储器组织-分段管理](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/5.md)
+- [8088CPU的编程结构](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch2/6.md)
 
 ## 第三章
 
