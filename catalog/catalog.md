@@ -22,6 +22,11 @@
 
 ## 第三章
 
+- [8086CPU指令系统](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/1.md)
+- [8086CPU寻址方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/2.md)
+- [8086CPU数据传送指令](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/3.md)
+- [8086CPU算术运算指令](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/4.md)
+
 ## 第五章
 
 - 存储器概述
