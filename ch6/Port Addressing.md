@@ -24,9 +24,9 @@
 
 输入端口必须具有“通断”控制能力。基本输入接口是一组**三态缓冲器**
 
-上一章：[I/O接口概述]([https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/IO%20interface.md](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/IO interface.md))
+上一章：[I/O接口概述](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/IO%20interface.md)
 
-下一章：[数据传送控制方式]([https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data%20Transmission.md](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data Transmission.md))
+下一章：[数据传送控制方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Data%20Transmission.md)
 
 目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
 

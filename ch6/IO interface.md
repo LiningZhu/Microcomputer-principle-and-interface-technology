@@ -30,6 +30,6 @@ CPU 与 I/O 接口之间通过系统总线传输信息，包括地址信息、�
 
 > CPU 像输出端口输出数据时，由于外设的速度慢，数据必须在输出端口保持一定的时间使外设能够正确接收，所以输出端口应具备**数据锁存能力**
 
-上一章：[]()
-下一章：[I/O 端口编址方式]([https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/%E7%AB%AF%E5%8F%A3%E7%BC%96%E5%9D%80%E6%96%B9%E5%BC%8F.md](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/端口编址方式.md))
+上一章：[高速缓冲存储器](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch5/cache.md)
+下一章：[I/O 端口编址方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/Port%20Addressing.md)
 目  录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)

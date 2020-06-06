@@ -14,6 +14,6 @@
 
 上一章：[LED数码管显示数字](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch6/LED.md)
 
-下一章：[]()
+下一章：[什么是中断](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch7/what is Interrupt.md)
 
 目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
