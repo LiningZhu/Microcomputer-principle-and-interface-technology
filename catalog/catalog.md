@@ -63,6 +63,10 @@
 
 ## 第九章
 
+- [定时器/计数器8253](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch9/ch9-1.md)
+- [8253控制字](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch9/ch9-2.md)
+- [8253工作方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch9/ch9-2.md)
+
 ## 作业
 
 - [作业](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/exercise/zuoye1.md)

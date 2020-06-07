@@ -119,7 +119,7 @@
 
 ## 上一章：[8259A的应用](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch7/8295A%20Claim.md)
 
-## 下一章：
+## 下一章：[定时器/计数器8253](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch9/ch9-1.md)
 
 ## [目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
 

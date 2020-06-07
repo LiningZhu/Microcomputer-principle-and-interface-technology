@@ -200,6 +200,18 @@
 
 - ##### 8255A工作方式选择控制字有【2】个，它们通过控制字的【最高位】来判断是哪一个控制。
 
+#### （十六）
+
+- ##### 8253是intel公司生产的可编程【定时/计数】芯片，它内部有【3】个功能完全独立的【16】位计数器
+
+- ##### 8253的启动可以由软件来启动，也可由外部信号来启动，由外部信号启动的方法又称为【硬件】启动
+
+- ##### 8253的有【6】种计数方式
+
+- ![1](http://m.qpic.cn/psc?/V13qV41h2syAL4/zfrllz9Q9AzvUwq**DIV0x3K*opgs42vGR.Fb6fND6*qWMc07t56sMYQV2IuM*C6UveQLWRSgcmZ7CKMXP.U.w!!/mnull&bo=DwSHAg8EhwIRBzA!&rf=photolist&t=5)
+
+  ##### 上图是8253的初始化及工作过程各信号示意图，从图中我们可知，计数初值是【4】，技术完毕后OUT端输出【高】电平信号作为提示信号或作为中断信号
+
 ### 链接
 
 目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
