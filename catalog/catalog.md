@@ -26,6 +26,10 @@
 - [8086CPU寻址方式](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/2.md)
 - [8086CPU数据传送指令](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/3.md)
 - [8086CPU算术运算指令](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/4.md)
+- [8086CPU逻辑运算与位移指令](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/5.md)
+- [8086CPU串操作指令](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/6.md)
+- [8086CPU程序控制指令](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/7.md)
+- [8086CPU处理器控制指令](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch3/8.md)
 
 ## 第五章
 
