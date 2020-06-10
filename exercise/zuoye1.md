@@ -212,6 +212,22 @@
 
   ##### 上图是8253的初始化及工作过程各信号示意图，从图中我们可知，计数初值是【4】，技术完毕后OUT端输出【高】电平信号作为提示信号或作为中断信号
 
+#### （十七）
+
+- ##### ADC(A/D)的功能是将【模拟量】转换为【数字量】，而DAC的作用正好相反
+
+- ##### D/A转换器的【转换时间/建立时间】是指输入数字量变化时，输出电压变化到相应稳定电压值所需要的时间
+
+- ##### DAC0832是一个【并行】的【8】位的DA转换器，其电流建立时间约1us
+
+- ##### DAC0832的转换输出结果形式是【电流型】
+
+- <img src="http://a1.qpic.cn/psc?/V11jp7Fm32qabE/W6D0nDePuU8z.mGR2KhyFTHScP95gxQEZ00OGln5AxpeM3qodygG4dpN506qFlCVsJO2PC.XXsYuYRk2O5HdXQ!!/c&amp;ek=1&amp;kp=1&amp;pt=0&amp;bo=OAS0BDgEtAQRGS4!&amp;tl=3&amp;vuin=2715451910&amp;tm=1591794000&amp;sce=60-2-2&amp;rf=0-0" style="zoom: 67%;" />
+
+##### 5V电压
+
+##### LE1=1或LE2=1时，另一个寄存器处于受控状态，执行一次写操作，就开始转换。
+
 ### 链接
 
 目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
