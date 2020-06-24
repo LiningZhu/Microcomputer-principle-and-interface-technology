@@ -69,5 +69,5 @@
 
 ## 作业
 
-- [作业](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/exercise/zuoye1.md)
+- [作业](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%BB%83%E4%B9%A0/zuoye1.md)
 
